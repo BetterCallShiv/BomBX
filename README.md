@@ -11,10 +11,6 @@ A powerful SMS & Call bombing tool for educational and testing purposes.
 - **WhatsApp Support**: Send multiple WhatsApp messages through various APIs
 - **Rate Limiting**: Built-in sleep functionality to respect API limits
 
-## 📱 Screenshots
-
-*Clean, modern interface with intuitive controls and real-time feedback*
-
 ## 🔒 Privacy & Security
 - No personal data storage or transmission
 - Local-only phone number processing
