@@ -1,4 +1,4 @@
-# SRBomber
+# BomBX
 
 **⚡ Advanced SMS Bomber for Android**
 
