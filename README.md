@@ -14,14 +14,17 @@ A powerful SMS, Call & WhatsApp bombing tool for educational and testing purpose
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="assets/preview-00.jpg" width="200" style="margin: 2px;"/>
-  &nbsp;
-  <img src="assets/preview-01.jpg" width="200" style="margin: 2px;"/>
-  &nbsp;
-  <img src="assets/preview-02.jpg" width="200" style="margin: 2px;"/>
-  &nbsp;
-  <img src="assets/preview-03.jpg" width="200" style="margin: 2px;"/>
-</div><br>
+  <table>
+    <tr>
+      <td><img src="assets/preview-00.jpg" width="300"/></td>
+      <td><img src="assets/preview-01.jpg" width="300""/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/preview-02.jpg" width="300"/></td>
+      <td><img src="assets/preview-03.jpg" width="300"/></td>
+    </tr>
+  </table>
+</div>
 
 *Clean modern interface with intuitive controls and real-time feedback*
 
