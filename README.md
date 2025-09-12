@@ -17,11 +17,6 @@ A powerful SMS & Call bombing tool for educational and testing purposes.
 - Secure API communication with SSL/TLS
 - No tracking or analytics collection
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request with detailed description
 
 ## ⚠️ Disclaimer
 
