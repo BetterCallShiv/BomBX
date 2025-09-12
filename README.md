@@ -2,7 +2,7 @@
 
 **⚡ Advanced SMS Bomber for Android**
 
-A powerful SMS & Call bombing tool for educational and testing purposes.
+A powerful SMS, Call & WhatsApp bombing tool for educational and testing purposes.
 
 ## ✨ Features
 
