@@ -32,7 +32,6 @@ A powerful SMS, Call & WhatsApp bombing tool for educational and testing purpose
 ## 🔒 Privacy & Security
 - No personal data storage or transmission
 - Local-only phone number processing
-- Secure API communication with SSL/TLS
 - No tracking or analytics collection
 
 
