@@ -16,12 +16,12 @@ A powerful SMS, Call & WhatsApp bombing tool for educational and testing purpose
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/preview-00.jpg" width="300"/></td>
-      <td><img src="assets/preview-01.jpg" width="300""/></td>
+      <td><img src="assets/preview-01.jpg" width="300"/></td>
+      <td><img src="assets/preview-02.jpg" width="300""/></td>
     </tr>
     <tr>
-      <td><img src="assets/preview-02.jpg" width="300"/></td>
       <td><img src="assets/preview-03.jpg" width="300"/></td>
+      <td><img src="assets/preview-04.jpg" width="300"/></td>
     </tr>
   </table>
 </div>
