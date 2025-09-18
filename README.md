@@ -23,6 +23,10 @@ A powerful SMS, Call & WhatsApp bombing tool for educational and testing purpose
       <td><img src="assets/preview-03.jpg" width="300"/></td>
       <td><img src="assets/preview-04.jpg" width="300"/></td>
     </tr>
+    <tr>
+      <td><img src="assets/preview-05.jpg" width="300"/></td>
+      <td><img src="assets/preview-06.jpg" width="300"/></td>
+    </tr>
   </table>
 </div>
 
