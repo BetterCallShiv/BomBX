@@ -4,6 +4,11 @@
 
 A powerful SMS, Call & WhatsApp bombing tool for educational and testing purposes.
 
+## 📌 Important Note
+
+**This application currently works only with Indian phone numbers (+91).**  
+Phone numbers from other countries are not supported at this time.
+
 ## ✨ Features
 
 - **SMS Bombing**: Send multiple SMS messages through various APIs
