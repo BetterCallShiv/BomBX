@@ -53,6 +53,18 @@ Phone numbers from other countries are not supported at this time.
 - DO NOT use this to spam innocent people
 - Use responsibly and ethically
 
+
+## 📊 Project Statistics
+
+<a href="https://star-history.com/#bettercallshiv/BomBX&Date">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=BetterCallShiv/BomBX&type=Date&theme=dark" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=BetterCallShiv/BomBX&type=Date" />
+<img alt="Star History Chart" src="https://api.star-history.com/svg?repos=BetterCallShiv/BomBX&type=Date" />
+</picture>
+</a>
+
+
 ## 👨‍💻 Author
 
 **Shivam Raj** ([@BetterCallShiv](https://github.com/BetterCallShiv))
