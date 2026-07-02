@@ -11,10 +11,11 @@ Phone numbers from other countries are not supported at this time.
 
 ## ✨ Features
 
-- **SMS Bombing**: Send multiple SMS messages through various APIs
-- **Call Bombing**: Make multiple calls through different APIs
-- **WhatsApp Support**: Send multiple WhatsApp messages through various APIs
-- **Rate Limiting**: Built-in sleep functionality to respect API limits
+- **SMS Bombing:** Send multiple SMS messages through various APIs
+- **Call Bombing:** Make multiple calls through different APIs
+- **WhatsApp Support:** Send multiple WhatsApp messages through various APIs
+- **Rate Limiting:** Built-in sleep functionality to respect API limits
+- **Number Protection:** Protect your number from bombing attempts using the built-in Number Protection feature
 
 ## 📱 Screenshots
 
