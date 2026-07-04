@@ -33,6 +33,11 @@ Phone numbers from other countries are not supported at this time.
       <td><img src="assets/preview-05.jpg" width="300"/></td>
       <td><img src="assets/preview-06.jpg" width="300"/></td>
     </tr>
+    <tr>
+      <td><img src="assets/preview-07.jpg" width="300"/></td>
+      <td><img src="assets/preview-08.jpg" width="300"/></td>
+    </tr>
+    
   </table>
 </div>
 
