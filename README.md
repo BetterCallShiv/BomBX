@@ -14,7 +14,7 @@ A powerful SMS, Call & WhatsApp bombing tool for educational and testing purpose
 - **Call Bombing:** Make multiple calls through different APIs
 - **WhatsApp Support:** Send multiple WhatsApp messages through various APIs
 - **Rate Limiting:** Built-in sleep functionality to respect API limits
-- **Number Protection:** Protect your number from bombing attempts using the built-in Number Protection feature
+- **Number Protection:** Protect your number from bombing attempts
 
 ## 📱 Screenshots
 
