@@ -6,8 +6,7 @@ A powerful SMS, Call & WhatsApp bombing tool for educational and testing purpose
 
 ## 📌 Important Note
 
-**This application currently works only with Indian phone numbers (+91).**  
-Phone numbers from other countries are not supported at this time.
+**This application currently works only with Indian phone numbers (+91).**
 
 ## ✨ Features
 
@@ -42,13 +41,6 @@ Phone numbers from other countries are not supported at this time.
 </div>
 
 *Clean modern interface with intuitive controls and real-time feedback*
-
-
-## 🔒 Privacy & Security
-- No personal data storage or transmission
-- Local-only phone number processing
-- No tracking or analytics collection
-
 
 ## ⚠️ Disclaimer
 
